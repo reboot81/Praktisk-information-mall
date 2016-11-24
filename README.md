@@ -18,6 +18,6 @@ Det tar lite tid att fylla i allt, gör det inte på en gång. Själv tog det mi
 * Dokumentet är i Numbers-format som finns till macOS, iOS samt på www.icloud.com/numbers/
 
 
-	Bo, Uddevalla 2016
+Bo, Uddevalla 2016
   
  Detta verk är licensierat under en [Creative Commons Erkännande-IckeKommersiell-DelaLika 4.0 Internationell Licens](creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-SA-4.0")
