@@ -2,7 +2,7 @@
 
 # Hej!
 
-Är du odödlig så kan du sluta läsa här och slänga den här filen.
+Är du odödlig så kan du sluta läsa här.
 
 Ok, du är alltså inte odödlig. Då förstår du att en dag så tar allt slut. Fast inte riktigt allt, för du kommer efterlevas av vänner och familj (samt en boupptecknare). Oavsett vilka tillgångar du har så kommer de att ärva din ekonomi.
 
